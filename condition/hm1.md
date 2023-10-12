@@ -22,5 +22,8 @@ $$s(n) = a_1 s(n - 1) + b_0 x(n) + b_1 x(n - 1);$$
 
 ## Решение
 Можно посмотреть решение онлайн и оставить комментарии на Google Collab по следующей ссылке:
+  
 [Ссылка на Google Collab](https://colab.research.google.com/drive/1CYvE8E6huC6DDZrXEbwslbk7r5hVKu60?usp=sharing)
+
+  
 Решение также лежит в файле в расширением *.ipynd. 

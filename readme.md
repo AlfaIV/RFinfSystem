@@ -5,5 +5,4 @@
 
 Каждое домашнее задание находиться в соотвествующих ветках репозитория:
 
-[**Домашнее задание №1**](https://github.com/AlfaIV/RFinfSystem/tree/hm1)
-[Условие и решение](./condition/hm1.md)
+[Домашнее задание №1](https://github.com/AlfaIV/RFinfSystem/tree/hm1)

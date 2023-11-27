@@ -14,4 +14,5 @@
 ### Перечень работ
 - [x] [Домашнее задание №1](https://github.com/AlfaIV/RFinfSystem/tree/hm1)
 - [x] [Дополнительное домашнее задание №1](https://github.com/AlfaIV/RFinfSystem/tree/hm1_2)
-- [ ] [Лабораторная работа №1]()
+- [ ] [Лабораторная работа №1](https://github.com/AlfaIV/RFinfSystem/tree/lab1)
+- [ ] [Лабораторная работа №2](https://github.com/AlfaIV/RFinfSystem/tree/lab2)

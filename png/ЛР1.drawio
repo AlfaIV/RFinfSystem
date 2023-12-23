@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T15:17:26.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="9k19xFa9MYzH2kx5zX7m" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T15:17:51.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="9SergLwh0ZhwQLBGctFC" version="22.1.11" type="github">
   <diagram name="ФМ4" id="hziAFoRf1nExCZqx7qH7">
     <mxGraphModel dx="1136" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -42,6 +42,11 @@
         </mxCell>
         <mxCell id="07ewjEIM7fM5UpoVXbdx-23" value="$$\pi/2$$" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="440" y="295" width="37.5" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="07ewjEIM7fM5UpoVXbdx-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="07ewjEIM7fM5UpoVXbdx-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="340.3103448275863" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="07ewjEIM7fM5UpoVXbdx-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.sum;" vertex="1" parent="1">
           <mxGeometry x="530" y="325" width="30" height="30" as="geometry" />
